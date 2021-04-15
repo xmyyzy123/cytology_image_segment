@@ -17,10 +17,10 @@ Using the *Phansalkar* method to segment carbon black particles in cytology imag
      ![high density(after threshold)](./img/high_density.jpg "high density(after threshold)")
 
    * low density
-
-![low_density_original](./img/low_density_original.jpg)
-
-![low_density](./img/low_density.jpg)
+   
+     ![low_density_original](./img/low_density_original.jpg)
+   
+     ![low_density](./img/low_density.jpg)
 
 Reference:
 
