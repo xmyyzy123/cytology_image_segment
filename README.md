@@ -1,6 +1,6 @@
 # Phansalkar Threshold Method in C++
 
-The Phansalkar method is described in [Adaptive local thresholding for detection of nuclei in diversity stained cytology images](./adaptive_local_threshold.pdf) , is also introduced in an  Auto Local Threshold plugin in ImageJ.
+**The Phansalkar method** is described in [Adaptive local thresholding for detection of nuclei in diversity stained cytology images](./adaptive_local_threshold.pdf) , is also introduced in an  [Auto Local Threshold plugin](https://imagej.net/Auto_Local_Threshold) in ImageJ.
 
 Using the *Phansalkar* method to segment carbon black particles in cytology images:
 
@@ -22,7 +22,12 @@ Using the *Phansalkar* method to segment carbon black particles in cytology imag
    
      ![low_density](./img/low_density.jpg)
 
-Reference:
+##### Environment:
+
+* Visual Studio 2015
+* OpenCV 4.5.1 
+
+##### Reference:
 
 * https://www.researchgate.net/publication/224226466_Adaptive_local_thresholding_for_detection_of_nuclei_in_diversity_stained_cytology_images
 
