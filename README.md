@@ -22,12 +22,12 @@ Using the *Phansalkar* method to segment carbon black particles in cytology imag
    
      ![low_density](./img/low_density.jpg)
 
-#### Environment:
+### Environment:
 
 * Visual Studio 2015
 * OpenCV 4.5.1 
 
-#### Reference:
+### Reference:
 
 * https://www.researchgate.net/publication/224226466_Adaptive_local_thresholding_for_detection_of_nuclei_in_diversity_stained_cytology_images
 
